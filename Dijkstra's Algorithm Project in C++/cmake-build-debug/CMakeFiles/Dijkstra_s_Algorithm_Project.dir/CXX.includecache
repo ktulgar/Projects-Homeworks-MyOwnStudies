@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Projects/C - C++ Projects/Dijkstra's Algorithm Project/Edge.h
+string
+-
+
+/cygdrive/d/Projects/C - C++ Projects/Dijkstra's Algorithm Project/Graph.h
+Edge.h
+/cygdrive/d/Projects/C - C++ Projects/Dijkstra's Algorithm Project/Edge.h
+list
+-
+vector
+-
+algorithm
+-
+map
+-
+sstream
+-
+fstream
+-
+list
+-
+limits
+-
+utility
+-
+iterator
+-
+iostream
+-
+
+/cygdrive/d/Projects/C - C++ Projects/Dijkstra's Algorithm Project/main.cpp
+Graph.h
+/cygdrive/d/Projects/C - C++ Projects/Dijkstra's Algorithm Project/Graph.h
+

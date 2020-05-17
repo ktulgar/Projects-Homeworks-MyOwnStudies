@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Dijkstra_s_Algorithm_Project.dir/main.cpp.o CMakeFiles/Dijkstra_s_Algorithm_Project.dir/Edge.cpp.o CMakeFiles/Dijkstra_s_Algorithm_Project.dir/Graph.cpp.o  -o Dijkstra_s_Algorithm_Project.exe -Wl,--out-implib,libDijkstra_s_Algorithm_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
