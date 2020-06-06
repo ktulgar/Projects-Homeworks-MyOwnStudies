@@ -94,7 +94,7 @@ int main() {
 }
 
 /*It performs best-fit algorithm.
- * If block's size is bigger than process's size and it wast allocated
+ * If block's size is bigger than process's size and it was not allocated
  * Then it is allocated for that process.*/
 
 void *bestFit(struct Process* process) {
